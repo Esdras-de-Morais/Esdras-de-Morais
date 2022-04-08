@@ -1,3 +1,3 @@
 ### Ola!👋
 
--🌱 Estudate de sistema de informação 1
+-🌱 Estudate de sistema de informação
